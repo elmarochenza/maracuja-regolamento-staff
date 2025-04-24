@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/NdFkSuM.png" alt="Logo Maracuja RP" width="500"/>
-</p>
+![358FE497-3105-4042-B21C-82ED1EB685F0](https://github.com/user-attachments/assets/58a72fff-19cb-4308-ac49-82bfb945beb6)
+
 # Regolamento Staff - Maracuja RP
 
 ## Sommario
