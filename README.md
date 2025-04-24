@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://i.imgur.com/NdFkSuM.png" alt="Logo Maracuja RP" width="500"/>
+</p>
 # Regolamento Staff - Maracuja RP
 
 ## Sommario
