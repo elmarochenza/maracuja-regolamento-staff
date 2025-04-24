@@ -1,38 +1,67 @@
-# maracuja-regolamento-staff
+# Regolamento Staff - Maracuja RP
 
-## 4. Procedure di Moderazione
+## Sommario
+- [1. Premessa](#1-premessa)
+- [2. Comportamento dello staff](#2-comportamento-dello-staff)
+- [3. Regole in server Minecraft](#3-regole-in-server-minecraft)
+- [4. Regole Discord](#4-regole-discord)
+- [5. Moderazioni: Warn, Jail, Ban, Kick](#5-moderazioni-warn-jail-ban-kick)
+- [6. Uso dei comandi](#6-uso-dei-comandi)
+- [7. Esempi di violazioni e azioni](#7-esempi-di-violazioni-e-azioni)
+- [8. Obblighi e divieti](#8-obblighi-e-divieti)
+- [9. Sanzioni per lo staff](#9-sanzioni-per-lo-staff)
 
-Lo staff è tenuto a intervenire in modo tempestivo, corretto e documentato nei casi di violazione del regolamento. Le principali azioni di moderazione comprendono:
+---
 
-### 4.1 Assist (ASS)
-- L’ass è un’azione preventiva e correttiva. Serve per chiarire con l’utente cosa ha fatto, spiegare regole o calmare situazioni.
-- Va usata con calma e rispetto, senza abuso di potere.
-- Non deve mai essere usata per minacciare o punire, ma per **dialogare**.
-- Va sempre comunicata nel canale di log dello staff.
-- In caso di utenti problematici, l’ass va seguita da warn o sanzioni solo se necessario.
+## 1. Premessa
+Questo regolamento è destinato a tutti i membri dello staff del server **Maracuja RP**. Serve a garantire ordine, rispetto e coerenza tra le azioni dello staff e le regole del server.
 
-### 4.2 Jail
-- Usare **solo in caso di violazioni chiare e confermate** come: spawnkill, no-rp, abuso di meccaniche.
-- **Mai abusare della jail come punizione leggera.**
-- Va sempre indicata la **motivazione chiara e specifica** nel log e in chat al player.
-- La durata dipende dalla gravità dell’azione (es. 5 min per failRP leggero, 15+ min per no-rp gravi).
-- Non si jailano player in mezzo a scene RP senza prima freeze/ass e discussione.
+## 2. Comportamento dello staff
+- Lo staff deve essere imparziale, professionale e disponibile con tutti i player.
+- Vietato abusare dei poteri per vantaggi personali o amici.
+- Ogni decisione presa va giustificata con prove (es. screen, video, log).
+- Il comportamento dello staff rappresenta l'immagine del server.
 
-### 4.3 Warn
-- Serve per segnalare comportamenti scorretti **non ancora gravi da meritare jail o ban**.
-- Dopo 3 warn ravvicinati (es. in 24h) si procede con jail o mute automatico.
-- Il warn deve essere accompagnato da messaggio chiaro: “Hai ricevuto un warn per [motivo]”.
-- Va sempre registrato in log interno.
+## 3. Regole in server Minecraft
+- Non usare vanish o fly senza motivo valido.
+- Non buildare, rompere o spostare oggetti senza autorizzazione.
+- I controlli devono essere motivati, annunciati in chat e svolti con rispetto.
+- Eseguire `/controller <player>` solo se entro 5 blocchi e dopo 3 secondi di immobilità del player.
 
-### 4.4 Mute
-- Si usa solo in caso di spam, flame, insulti o linguaggio offensivo.
-- La durata varia in base alla gravità e recidività (es. 10m per spam, 30m+ per insulti).
-- In caso di mute eccessivo (oltre 1h), serve autorizzazione da un superiore.
-- Mai mutare senza scrivere **motivazione pubblica o loggata**.
+## 4. Regole Discord
+- Mantenere un comportamento educato e rispettoso.
+- Usare i canali giusti per ogni tipo di messaggio.
+- Evitare flood, spam, ping inutili o discussioni tossiche.
+- Assegnare e rimuovere ruoli solo se autorizzati.
 
-### 4.5 Ban
-- Estrema ratio: si usa solo in casi gravi o dopo avvertimenti ignorati.
-- Esempi di ban validi: cheat, griefing gravi, razzismo, dox, minacce reali, bypass permaban.
-- Sempre indicare la **motivazione precisa** e **durata** nel comando e nel log.
-- Ban temporanei: 1 giorno, 7 giorni, 30 giorni, a seconda della gravità.
-- Ban perm: solo dopo verifica con fondatore/admin.
+## 5. Moderazioni: Warn, Jail, Ban, Kick
+- **Warn**: ammonimento per infrazioni leggere (linguaggio, piccole offese, provocazioni).
+- **Jail**: usato per infrazioni di media entità (RDM, fail RP lievi).
+- **Ban**: da usare solo con prove per cheat, gravi infrazioni, minacce, evasioni da punizioni.
+- **Kick**: per player AFK da troppo, bug visuali, controllo rifiutato.
+
+## 6. Uso dei comandi
+- Evitare `/ban`, `/jail`, `/kick` senza spiegazione e motivazione.
+- Esempio corretto: `/ban LuigiHacker cheat - speed + fly (video disponibile)`
+- Evitare abusi dei permessi (no clear, tp, give, ecc. senza motivo).
+
+## 7. Esempi di violazioni e azioni
+- **Fail RP** (es. fare il supereroe in una rapina): warn/jail
+- **RDM (uccidere a caso)**: jail/ban in base alla gravità
+- **Minacce reali**: ban immediato
+- **Evade jail/ban**: ban prolungato
+- **Insulti staff**: warn/jail/ban a seconda del contesto
+
+## 8. Obblighi e divieti
+- Obbligatorio leggere ogni aggiornamento del regolamento.
+- Divieto assoluto di:
+  - Dare item ai player.
+  - Passare info interne ai civili o fazioni.
+  - Fare RP con vantaggi da staff.
+- Lo staff non partecipa alle rapine/eventi se in duty.
+
+## 9. Sanzioni per lo staff
+- Primo errore: avviso ufficiale
+- Secondo errore: sospensione temporanea
+- Terzo errore: rimozione dallo staff
+- Per abusi gravi: rimozione immediata e ban
