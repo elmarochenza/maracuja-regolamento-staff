@@ -68,3 +68,14 @@ Questo regolamento è destinato a tutti i membri dello staff del server **Maracu
 - Secondo errore: sospensione temporanea
 - Terzo errore: rimozione dallo staff
 - Per abusi gravi: rimozione immediata e ban
+
+  ## 10. Regolamento Ticket
+  - Leggi SEMPRE il ticket prima di reclamarlo.
+  -  Non reclamare ticket che non puoi gestire.
+	-	 Mai rubare ticket già reclamati da altri staffer.
+	-	 Mantieni sempre educazione e rispetto.
+	-	 Risolvi con calma, senza fretta.
+	-	 Se non sai rispondere, chiedi aiuto: mai inventare.
+	-	 Vietato insultare o provocare nei ticket.
+	-	 Vietato diffondere ciò che viene detto nei ticket.
+
